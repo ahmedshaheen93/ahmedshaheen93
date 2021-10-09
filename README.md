@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Ahmed Shaheen</h1>
 
 <p align="center">
-	<a href="https://www.facebook.com/ahmedshaheen676"><img src="https://img.shields.io/badge/facebook-ahmedshaheen676-%231FA1F1?style=flat&logo=facebook"/></a>
+	<a href="https://www.facebook.com/ahmedshaheen676"><img src="https://img.shields.io/badge/facebook-ahmedshaheen676-%231FA1F1?style=flat&logo=facebook&logoColor=white"/></a>
     <a href="https://twitter.com/ahmedshaheen676"><img src="https://img.shields.io/badge/twitter-@ahmedshaheen676-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ahmedshaheen93/"><img src="https://img.shields.io/badge/linkedin-ahmedshaheen93-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
