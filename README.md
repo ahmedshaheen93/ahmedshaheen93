@@ -5,7 +5,7 @@
     <a href="https://twitter.com/ahmedshaheen676"><img src="https://img.shields.io/badge/twitter-@ahmedshaheen676-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ahmedshaheen93/"><img src="https://img.shields.io/badge/linkedin-ahmedshaheen93-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
-  <img src="https://github.com/ahmedshaheen93/ahmedshaheen93/blob/master/coder.png" align="right" width="25%"/>
+  <img src="https://github.com/ahmedshaheen93/ahmedshaheen93/blob/main/coder.png" align="right" width="25%"/>
 
 A Software Engineer primarily working with Java, Spring Framework, and AWS with a passion for
 Web Development, Programming Competitions, seeking a new challenge to build a software product that is
